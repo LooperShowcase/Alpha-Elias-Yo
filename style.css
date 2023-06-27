@@ -1,0 +1,35 @@
+div {
+  background-color: rgb(42, 126, 165);
+}
+
+#YAEL {
+  background-color: #f1f3f6;
+  color: rgb(0, 123, 255);
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 50px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+<li><a  href="#home">Home</a></li>
+<li><a href="#yeal arab .html">Yael-Arad</a></li>
+<li><a href="#maria cuire.html">maria Curie</a></li>
+<li><a href="#scorates.html">Socrates</a></li>
